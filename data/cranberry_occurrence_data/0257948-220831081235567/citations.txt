@@ -1,0 +1,2 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Crop Wild Relatives Occurrence data consortia (2018). A global database for the distributions of crop wild relatives. Version 1.12. Centro Internacional de Agricultura Tropical - CIAT. Occurrence dataset https://doi.org/10.15468/jyrthk accessed via GBIF.org on 2023-01-24.
